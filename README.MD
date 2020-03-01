@@ -1,0 +1,2 @@
+https://editor.p5js.org/ainingwang/sketches/DReO_YuL
+I coded a project to test human response speed. I imported images and sounds to complete this project. This project was completed using the code learned in the class and the library and examples of P5.js. The user needs to use the mouse for testing. If the user misses more than three stars, a game over will be triggered. When user scores get higher and higher. Stars will appear and disappear faster and faster. Clicks, misses, and game over all trigger sounds.
